@@ -93,7 +93,8 @@ namespace Stella
         std::cout << "Fucntion go out: "<< objFunc.typeTag << " "<<  objFunc.returns[0].typeTag << " " << contexts.top().typeTag << " " << contexts.size() << "\n" ;
         std::cout << "Function name: " << decl_fun->stellaident_ << "\n";
         // checking expected return type and actual return type same or not
-        if(!checkReturn(contexts.top(), objFunc.returns[0]) ){
+        // add new condition if actual return type is panic then skip
+        if(!checkReturn(contexts.top(), objFunc.returns[0]) && contexts.top().typeTag != MyTypeTag::PanicTypeTag){
             std::cout << "ERROR: function should return another type\n";
             std::cout << "Line: " << decl_fun->expr_->line_number << "\n";
             exit(1);
@@ -184,8 +185,7 @@ namespace Stella
     {
         /* Code For Panic Goes Here */
         std::cout << "visitPanic\n";
-
-        exit(0);
+        contexts.push(ObjectType(MyTypeTag::PanicTypeTag));
     }
 
     void Visiting::visitThrow(Throw *throw_)
@@ -289,7 +289,8 @@ namespace Stella
             exit(1);
         }
         // check proper type(bool)
-        if(contexts.empty() || MyTypeTag::BoolTypeTag != contexts.top().typeTag){
+        // also check if panic then skip
+        if(MyTypeTag::PanicTypeTag != contexts.top().typeTag && MyTypeTag::BoolTypeTag != contexts.top().typeTag){
             std::cout << "ERROR: if condition type should be bool. On line:" << if_->expr_1->line_number << " char:" << if_->expr_1->char_number << "\n";
             exit(1);
         }
@@ -317,6 +318,20 @@ namespace Stella
             std::cout << "ERROR: Undefined type on line: " << if_->expr_3->line_number << " at position: " << if_->expr_3->char_number << "\n";
             exit(1);
         }
+        if(expected_type.typeTag == MyTypeTag::PanicTypeTag){
+            // if first expr type is panic
+            // it's mean we take second expr type as return
+            return ;
+        }
+        if(contexts.top().typeTag == MyTypeTag::PanicTypeTag){
+            // if second expr type is panic
+            // then remove second from stack context
+            // add expected type
+            contexts.pop();
+            contexts.push(expected_type);
+            return ;
+        }
+
         // checking second expr type and third expr type
         if(contexts.empty() || expected_type != contexts.top()){
             std:: cout << expected_type.typeTag << " " << contexts.top().typeTag << "\n";

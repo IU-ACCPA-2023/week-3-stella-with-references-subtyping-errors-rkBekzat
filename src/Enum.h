@@ -14,5 +14,6 @@ namespace Stella {
         ListTypeTag,
         RecordsTypeTag,
         ReferenceTypeTag,
+        PanicTypeTag,
     };
 }

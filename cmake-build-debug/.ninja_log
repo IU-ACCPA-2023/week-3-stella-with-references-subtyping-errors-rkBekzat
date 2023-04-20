@@ -55,3 +55,10 @@
 1271	1445	1681991758212420153	stella-interpreter	c4697ae05c64450a
 2	1290	1681991851089407552	CMakeFiles/stella-interpreter.dir/src/Visiting.cpp.o	1d6b6501073e2860
 1290	1465	1681991851265409224	stella-interpreter	c4697ae05c64450a
+1	767	1681995851123692716	CMakeFiles/stella-interpreter.dir/src/TypeCheck.cpp.o	b83c43ba8cbb9185
+6	1283	1681995851639695095	CMakeFiles/stella-interpreter.dir/src/Visiting.cpp.o	1d6b6501073e2860
+1283	1456	1681995851811695887	stella-interpreter	c4697ae05c64450a
+1	1290	1681999710714985415	CMakeFiles/stella-interpreter.dir/src/Visiting.cpp.o	1d6b6501073e2860
+1290	1513	1681999710938986640	stella-interpreter	c4697ae05c64450a
+1	1267	1681999805735513245	CMakeFiles/stella-interpreter.dir/src/Visiting.cpp.o	1d6b6501073e2860
+1267	1453	1681999805919514282	stella-interpreter	c4697ae05c64450a
