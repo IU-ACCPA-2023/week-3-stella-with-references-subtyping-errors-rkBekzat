@@ -1,0 +1,78 @@
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella 1 0.00297089
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-2.stella 1 0.00232019
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-3.stella 1 0.00263356
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-1.stella 1 0.00215808
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-2.stella 1 0.00255632
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-3.stella 1 0.0034486
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-1.stella 1 0.00227185
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-2.stella 1 0.00247328
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-3.stella 1 0.00219398
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-4.stella 1 0.00258886
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-squares-1.stella 1 0.00265326
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-squares-2.stella 1 0.0031941
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-1.stella 1 0.00233904
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-2.stella 1 0.00259934
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-3.stella 1 0.00222003
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/shadowed-variable-1.stella 1 0.0029028
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/undefined-variable-1.stella 1 0.00231271
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/undefined-variable-2.stella 1 0.00265563
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/ill-typed/bad-panic-1.stella 1 0.0028259
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/ill-typed/bad-variants-1.stella 1 0.00244653
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/pairs/ill-typed/bad-pairs-1.stella 1 0.00307188
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/records/ill-typed/bad-records-1.stella 1 0.0030341
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-1.stella 1 0.00250184
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-2.stella 1 0.00286795
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-3.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-1.stella 1 0.00284616
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-2.stella 1 0.0019163
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-3.stella 1 0.0024774
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella 1 0.00332233
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-5.stella 1 0.00230245
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/ill-typed/bad-sum-types-1.stella 1 0.00346851
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/ill-typed/bad-tuples-1.stella 1 0.00233311
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/ill-typed/bad-variants-1.stella 1 0.0021349
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/factorial.stella 1 0.00308019
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/higher-order-1.stella 1 0.0023718
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/increment_twice.stella 1 0.00276556
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/logical-operators.stella 1 0.0027342
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/squares.stella 1 0.00269299
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-1.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-2.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-3.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/well-typed/lists-1.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/pairs/well-typed/pairs-1.stella 1 0.00344888
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/records/well-typed/records-1.stella 1 0.0577498
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-1.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-2.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-3.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-3.stella 1 0.00821259
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/well-typed/sum-types-1.stella 1 0.00432308
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/well-typed/sum-types-2.stella 1 0.0125611
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/well-typed/tuples-1.stella 1 0.0135238
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-1.stella 0 0
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-2.stella 0 0
+---
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-3.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-1.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-2.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-3.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/well-typed/lists-1.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-1.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-2.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-3.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-1.stella
+/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-2.stella
