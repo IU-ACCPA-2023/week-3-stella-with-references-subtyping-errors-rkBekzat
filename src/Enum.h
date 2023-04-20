@@ -13,5 +13,6 @@ namespace Stella {
         SumTypeTag,
         ListTypeTag,
         RecordsTypeTag,
+        ReferenceTypeTag,
     };
 }

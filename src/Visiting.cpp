@@ -90,7 +90,7 @@ namespace Stella
         if (decl_fun->expr_)
             decl_fun->expr_->accept(this);
 
-        std::cout << "Fucntion go out: "<< objFunc.typeTag << " "<<  objFunc.returns[0].typeTag << " " << contexts.top().typeTag << "\n" ;
+        std::cout << "Fucntion go out: "<< objFunc.typeTag << " "<<  objFunc.returns[0].typeTag << " " << contexts.top().typeTag << " " << contexts.size() << "\n" ;
         std::cout << "Function name: " << decl_fun->stellaident_ << "\n";
         // checking expected return type and actual return type same or not
         if(!checkReturn(contexts.top(), objFunc.returns[0]) ){
@@ -141,8 +141,16 @@ namespace Stella
         std::cout << "visitAssign\n";
         if (assign->expr_1)
             assign->expr_1->accept(this);
+        ObjectType First = contexts.top();
+        contexts.pop();
         if (assign->expr_2)
             assign->expr_2->accept(this);
+        if(contexts.top().typeTag != First.params[0].typeTag ){
+            std::cout << "ERROR: you can't change type, on line: " << assign->line_number << "\n";
+            exit(1);
+        }
+        contexts.pop();
+        contexts.push(ObjectType(MyTypeTag::UnitTypeTag));
     }
 
     void Visiting::visitRef(Ref *ref)
@@ -151,6 +159,10 @@ namespace Stella
         std::cout << "visitRef\n";
         if (ref->expr_)
             ref->expr_->accept(this);
+        ObjectType objRef = ObjectType(MyTypeTag::ReferenceTypeTag);
+        objRef.params.push_back(contexts.top());
+        contexts.pop();
+        contexts.push(objRef);
     }
 
     void Visiting::visitDeref(Deref *deref)
@@ -159,12 +171,20 @@ namespace Stella
         std::cout << "visitDeref\n";
         if (deref->expr_)
             deref->expr_->accept(this);
+        if(contexts.top().typeTag != MyTypeTag::ReferenceTypeTag){
+            std::cout << "ERROR: The type should be reference, on line: " << deref->line_number << "\n";
+            exit(1);
+        }
+        ObjectType objDeref = contexts.top().params[0];
+        contexts.pop();
+        contexts.push(objDeref);
     }
 
     void Visiting::visitPanic(Panic *panic)
     {
         /* Code For Panic Goes Here */
         std::cout << "visitPanic\n";
+
         exit(0);
     }
 
@@ -408,6 +428,7 @@ namespace Stella
             std::cout << "ERROR: Should be Nat type, on line: " << greater_than_or_equal->line_number << "\n";
             exit(1);
         }
+
     }
 
     void Visiting::visitEqual(Equal *equal)
@@ -432,7 +453,7 @@ namespace Stella
             exit(1);
         }
         contexts.pop();
-        contexts.push(MyTypeTag::BoolTypeTag);
+        contexts.push(ObjectType(MyTypeTag::BoolTypeTag));
     }
 
     void Visiting::visitNotEqual(NotEqual *not_equal)
@@ -1410,6 +1431,10 @@ void Visiting::visitTypeRecord(TypeRecord *type_record)
         std::cout << "visitTypeRef\n";
         if (type_ref->type_)
             type_ref->type_->accept(this);
+        ObjectType objRef = ObjectType(MyTypeTag::ReferenceTypeTag);
+        objRef.params.push_back(contexts.top());
+        contexts.pop();
+        contexts.push(objRef);
     }
 
     void Visiting::visitTypeVar(TypeVar *type_var)
