@@ -121,7 +121,7 @@ namespace Stella
     void Visiting::visitDeclExceptionType(DeclExceptionType *decl_exception_type)
     {
         /* Code For DeclExceptionType Goes Here */
-
+        std::cout << "visitDeclExceptionType\n";
         if (decl_exception_type->type_)
             decl_exception_type->type_->accept(this);
     }
@@ -129,7 +129,7 @@ namespace Stella
     void Visiting::visitDeclExceptionVariant(DeclExceptionVariant *decl_exception_variant)
     {
         /* Code For DeclExceptionVariant Goes Here */
-
+        std::cout << "visitDeclExceptionVariant\n";
         visitStellaIdent(decl_exception_variant->stellaident_);
         if (decl_exception_variant->type_)
             decl_exception_variant->type_->accept(this);
@@ -138,7 +138,7 @@ namespace Stella
     void Visiting::visitAssign(Assign *assign)
     {
         /* Code For Assign Goes Here */
-
+        std::cout << "visitAssign\n";
         if (assign->expr_1)
             assign->expr_1->accept(this);
         if (assign->expr_2)
@@ -148,7 +148,7 @@ namespace Stella
     void Visiting::visitRef(Ref *ref)
     {
         /* Code For Ref Goes Here */
-
+        std::cout << "visitRef\n";
         if (ref->expr_)
             ref->expr_->accept(this);
     }
@@ -156,7 +156,7 @@ namespace Stella
     void Visiting::visitDeref(Deref *deref)
     {
         /* Code For Deref Goes Here */
-
+        std::cout << "visitDeref\n";
         if (deref->expr_)
             deref->expr_->accept(this);
     }
@@ -164,12 +164,14 @@ namespace Stella
     void Visiting::visitPanic(Panic *panic)
     {
         /* Code For Panic Goes Here */
+        std::cout << "visitPanic\n";
+        exit(0);
     }
 
     void Visiting::visitThrow(Throw *throw_)
     {
         /* Code For Throw Goes Here */
-
+        std::cout << "visitThrow\n";
         if (throw_->expr_)
             throw_->expr_->accept(this);
     }
@@ -177,7 +179,7 @@ namespace Stella
     void Visiting::visitTryCatch(TryCatch *try_catch)
     {
         /* Code For TryCatch Goes Here */
-
+        std::cout << "visitTryCatch";
         if (try_catch->expr_1)
             try_catch->expr_1->accept(this);
         if (try_catch->pattern_)
@@ -189,7 +191,7 @@ namespace Stella
     void Visiting::visitTryWith(TryWith *try_with)
     {
         /* Code For TryWith Goes Here */
-
+        std::cout << "visitTryWith\n";
         if (try_with->expr_1)
             try_with->expr_1->accept(this);
         if (try_with->expr_2)
@@ -411,12 +413,12 @@ namespace Stella
     void Visiting::visitEqual(Equal *equal)
     {
         /* Code For Equal Goes Here */
-        std::cout << "Equal\n";
+        std::cout << "visitEqual\n";
         int sizedBefore = contexts.size();
         if (equal->expr_1)
             equal->expr_1->accept(this);
         if(contexts.size() - sizedBefore != 1){
-            std::cout << "ERROR: Should be Nat type, on line: " << equal->line_number << "\n";
+            std::cout << "ERROR: Should be one variable, on line: " << equal->line_number << "\n";
             exit(1);
         }
         ObjectType first = contexts.top();
@@ -426,9 +428,11 @@ namespace Stella
             equal->expr_2->accept(this);
 
         if(contexts.size() - sizedBefore != 1 || contexts.top().typeTag != first.typeTag){
-            std::cout << "ERROR: Should be Nat type, on line: " << equal->line_number << "\n";
+            std::cout << "ERROR: Should be one variable , on line: " << equal->line_number << "\n";
             exit(1);
         }
+        contexts.pop();
+        contexts.push(MyTypeTag::BoolTypeTag);
     }
 
     void Visiting::visitNotEqual(NotEqual *not_equal)
@@ -966,6 +970,7 @@ namespace Stella
     void Visiting::visitConstUnit(ConstUnit *const_unit)
     {
         /* Code For ConstUnit Goes Here */
+        std::cout << "visitConstUnit\n";
         contexts.push(MyTypeTag::UnitTypeTag);
     }
 
@@ -980,7 +985,7 @@ namespace Stella
     void Visiting::visitConstMemory(ConstMemory *const_memory)
     {
         /* Code For ConstMemory Goes Here */
-
+        std::cout << "visitConstMemory\n";
         visitMemoryAddress(const_memory->memoryaddress_);
     }
 
@@ -1217,7 +1222,7 @@ namespace Stella
     void Visiting::visitPatternVar(PatternVar *pattern_var)
     {
         /* Code For PatternVar Goes Here */
-//        std::cout << "visitPatternVar\n";
+        std::cout << "visitPatternVar\n";
 //        std::cout << "ASSIGN: " << pattern_var->stellaident_ << " " << contexts.top().typeTag  << "\n";
         contextIdent[pattern_var->stellaident_].push(contexts.top());
         scopedContext.top().push_back(pattern_var->stellaident_);
@@ -1390,17 +1395,19 @@ void Visiting::visitTypeRecord(TypeRecord *type_record)
     void Visiting::visitTypeTop(TypeTop *type_top)
     {
         /* Code For TypeTop Goes Here */
+        std::cout << "visitTypeTop\n";
     }
 
     void Visiting::visitTypeBottom(TypeBottom *type_bottom)
     {
         /* Code For TypeBottom Goes Here */
+        std::cout << "visitTypeBottom\n";
     }
 
     void Visiting::visitTypeRef(TypeRef *type_ref)
     {
         /* Code For TypeRef Goes Here */
-
+        std::cout << "visitTypeRef\n";
         if (type_ref->type_)
             type_ref->type_->accept(this);
     }
@@ -1660,5 +1667,6 @@ void Visiting::visitTypeRecord(TypeRecord *type_record)
     void Visiting::visitMemoryAddress(MemoryAddress x)
     {
         /* Code for MemoryAddress Goes Here */
+        std::cout << "visitMemoryAddress\n";
     }
 }
