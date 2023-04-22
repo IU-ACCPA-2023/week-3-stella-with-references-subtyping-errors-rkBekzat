@@ -1041,10 +1041,13 @@ namespace Stella
     {
         /* Code For APatternBinding Goes Here */
         std::cout << "visitAPatternBinding\n";
-        if (a_pattern_binding->pattern_)
-            a_pattern_binding->pattern_->accept(this);
+        std::cout << printer.print(a_pattern_binding->pattern_) << "\n";
+        // here we need first come to expr then pattern cause first we need take type of the pattern and then binding them
         if (a_pattern_binding->expr_)
             a_pattern_binding->expr_->accept(this);
+        if (a_pattern_binding->pattern_)
+            a_pattern_binding->pattern_->accept(this);
+
     }
 
     void Visiting::visitAMatchCase(AMatchCase *a_match_case)
