@@ -684,7 +684,7 @@ namespace Stella
             std::cout << "ERROR: This is not function. On line: " << application->expr_->line_number << " at position: " << application->expr_->char_number << "\n";
             exit(1);
         }
-        ObjectType obj = contexts.top();
+        ObjectType func = contexts.top();
         contexts.pop();
         int sizedBefore = contexts.size(); // to help determine which type I should pass to function
 //        std::cout << "BEFORE LIST EXP IN APPLICATION: " << sizedBefore << " "  << obj.typeTag << "\n";
@@ -694,25 +694,30 @@ namespace Stella
         int positionOfParam = 0; // it will track for which param I pass the object
 //        std::cout << "BEFORE CHECK APPLICATION: " << sizedBefore <<  " " << contexts.size() << " " << obj.returns.size() << " " <<  obj.params.size() << "\n";
         // while I go pass the list exprision I will check with type in params of function
-        while (contexts.size() > sizedBefore && positionOfParam < obj.params.size()){
-            if(contexts.top() != obj.params[positionOfParam]){
-                std::cout << "ERROR: mismatch this params on line: " << application->line_number << "\n";
-                std::cout << contexts.top().typeTag << " " << obj.params[positionOfParam].typeTag << "\n";
-                std::cout << contexts.top().params.size() << " " << obj.params[positionOfParam].params.size() << "\n";
-                std::cout << contexts.top().returns.size() << " " << obj.params[positionOfParam].returns.size() << "\n";
-                exit(1);
-            }
-            contexts.pop();
-            positionOfParam++;
-        }
-        // if we not reach to the end, it's mean not enough argument passed
-        if(positionOfParam < obj.params.size()){
-            std::cout << "ERROR: not enough params on line: " << application->line_number << "\n";
+        ObjectType args = getArgs(sizedBefore);
+        if(!subTypeFunc(func, args)){
+            std::cout << "ERROR: mismatch argument and not subtyping, on line: " << application->line_number << "\n";
             exit(1);
         }
-        std::cout << "Before end application: " << obj.typeTag << " " << obj.returns[0].typeTag << "\n";
+//        while (contexts.size() > sizedBefore && positionOfParam < obj.params.size()){
+//            if(contexts.top() != obj.params[positionOfParam]){
+//                std::cout << "ERROR: mismatch this params on line: " << application->line_number << "\n";
+//                std::cout << contexts.top().typeTag << " " << obj.params[positionOfParam].typeTag << "\n";
+//                std::cout << contexts.top().params.size() << " " << obj.params[positionOfParam].params.size() << "\n";
+//                std::cout << contexts.top().returns.size() << " " << obj.params[positionOfParam].returns.size() << "\n";
+//                exit(1);
+//            }
+//            contexts.pop();
+//            positionOfParam++;
+//        }
+//        // if we not reach to the end, it's mean not enough argument passed
+//        if(positionOfParam < obj.params.size()){
+//            std::cout << "ERROR: not enough params on line: " << application->line_number << "\n";
+//            exit(1);
+//        }
+        std::cout << "Before end application: " << func.typeTag << " " << func.returns[0].typeTag << "\n";
         // otherwise we add to context return type of function
-        contexts.push(obj.returns[0]); // every time return should be 1 element hence I get 1 element
+        contexts.push(func.returns[0]); // every time return should be 1 element hence I get 1 element
 //        std::cout << "AFTER APPLICATION\n";
     }
 

@@ -42,6 +42,63 @@ class Visiting : public Visitor
 
     public:
 
+        ObjectType getArgs(int sizedBefore) {
+            ObjectType result = ObjectType(MyTypeTag::FunctionTypeTag);
+            while(sizedBefore < contexts.size()){
+                result.params.push_back(contexts.top());
+                contexts.pop();
+            }
+            return result;
+        }
+
+        bool subTypeRecord(ObjectType r, ObjectType sub){
+            for(int i = 0; i < sub.records.size(); i++){
+                bool find = false;
+                for(int j = 0; j < r.records.size(); j++){
+                    if(sub.records[i].first == r.records[j].first){
+                        if(sub.records[i].second != r.records[j].second){
+                            return false;
+                        }
+                        find = true;
+{}                    }
+                }
+                if(!find){
+                    return false;
+                }
+            }
+            return true;
+        }
+
+        bool subTypeFunc(ObjectType f, ObjectType args){
+            if(args.params.size() < f.params.size()){
+                return false;
+            }
+            for(int i = 0; i < f.params.size(); i++){
+                if(args.params[i].typeTag != f.params[i].typeTag){
+                    return false;
+                }
+                if(args.params[i].typeTag == MyTypeTag::RecordsTypeTag){
+                    if(!subTypeRecord(args.params[i], f.params[i])){
+                        return false;
+                    }
+                }
+                else if(args.params[i].typeTag == MyTypeTag::FunctionTypeTag){
+                    if(!subTypeFunc(args.params[i], f.params[i])){
+                        return false;
+                    }
+                    if(args.params[i].returns[0] != f.params[i].returns[0]){
+                        return false;
+                    }
+                }
+                else {
+                    if(args.params[i] != f.params[i]){
+                        return false;
+                    }
+                }
+            }
+            return true;
+        }
+
     bool checkReturn(ObjectType actual, ObjectType expected){
         if(actual == expected){
             return true;
