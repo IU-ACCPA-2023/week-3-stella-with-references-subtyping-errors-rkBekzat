@@ -1,10 +1,10 @@
-Start testing: Apr 22 18:08 MSK
+Start testing: Apr 26 22:13 MSK
 ----------------------------------------------------------
 1/60 Testing: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella
 1/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -33,7 +33,7 @@ ERROR: This is not function. On line: 4 at position: 9
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -41,7 +41,7 @@ Test Passed.
 2/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-2.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-2.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -71,7 +71,7 @@ ERROR: This is not function. On line: 4 at position: 9
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-2.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-2.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -79,7 +79,7 @@ Test Passed.
 3/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-3.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-3.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -136,7 +136,7 @@ ERROR: This is not function. On line: 4 at position: 9
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-3.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-3.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/applying-non-function-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -144,7 +144,7 @@ Test Passed.
 4/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -195,7 +195,7 @@ ERROR: mismatch argument and not subtyping, on line: 4
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -203,7 +203,7 @@ Test Passed.
 5/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-2.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-2.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -329,7 +329,7 @@ ERROR: mismatch argument and not subtyping, on line: 18
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-2.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-2.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -337,7 +337,7 @@ Test Passed.
 6/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-3.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-3.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -490,7 +490,7 @@ ERROR: mismatch argument and not subtyping, on line: 18
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-3.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-3.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/argument-type-mismatch-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -498,7 +498,7 @@ Test Passed.
 7/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -527,7 +527,7 @@ ERROR: if condition type should be bool. On line:4 char:14
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -535,7 +535,7 @@ Test Passed.
 8/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-2.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-2.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -567,7 +567,7 @@ ERROR: if return different types on line: 4 position 25 and on line:4 postion35
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-2.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-2.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -575,7 +575,7 @@ Test Passed.
 9/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-3.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-3.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -625,7 +625,7 @@ ERROR: mismatch argument and not subtyping, on line: 4
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-3.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-3.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -633,7 +633,7 @@ Test Passed.
 10/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-4.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-4.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-4.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-4.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -673,7 +673,7 @@ ERROR: if return different types on line: 4 position 26 and on line:4 postion36
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-4.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-4.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-if-4.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -681,7 +681,7 @@ Test Passed.
 11/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-squares-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-squares-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-squares-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-squares-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -739,7 +739,7 @@ Line: 5
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-squares-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-squares-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-squares-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -747,7 +747,7 @@ Test Passed.
 12/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-squares-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-squares-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-squares-2.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-squares-2.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -860,7 +860,7 @@ ERROR: NatRec 3rd argument functions: Should be same type of params type and ret
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-squares-2.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-squares-2.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-squares-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -868,7 +868,7 @@ Test Passed.
 13/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -902,7 +902,7 @@ On line 4 at position: 44
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -910,7 +910,7 @@ Test Passed.
 14/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-2.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-2.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -947,7 +947,7 @@ On line 4 at position: 16
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-2.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-2.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -955,7 +955,7 @@ Test Passed.
 15/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-3.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-3.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -984,7 +984,7 @@ On line 4 at position: 16
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-3.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-3.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/bad-succ-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -992,7 +992,7 @@ Test Passed.
 16/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/shadowed-variable-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/shadowed-variable-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/shadowed-variable-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/shadowed-variable-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1074,7 +1074,7 @@ ERROR: This is not function. On line: 13 at position: 15
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/shadowed-variable-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/shadowed-variable-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/shadowed-variable-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1082,7 +1082,7 @@ Test Passed.
 17/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/undefined-variable-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/undefined-variable-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/undefined-variable-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/undefined-variable-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1111,7 +1111,7 @@ ERROR: The variable undefined, on line: 4 at position: 14
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/undefined-variable-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/undefined-variable-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/undefined-variable-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1119,7 +1119,7 @@ Test Passed.
 18/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/undefined-variable-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/undefined-variable-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/undefined-variable-2.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/undefined-variable-2.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1211,7 +1211,7 @@ ERROR: The variable undefined, on line: 13 at position: 27
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/undefined-variable-2.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/undefined-variable-2.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/ill-typed/undefined-variable-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1219,7 +1219,7 @@ Test Passed.
 19/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/ill-typed/bad-panic-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/ill-typed/bad-panic-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/ill-typed/bad-panic-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/ill-typed/bad-panic-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1246,10 +1246,10 @@ visitApplication
 visitPanic
 ERROR: This is not function. On line: 7 at position: 9
 <end of output>
-Test time =   0.01 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/ill-typed/bad-panic-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/ill-typed/bad-panic-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/ill-typed/bad-panic-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1257,7 +1257,7 @@ Test Passed.
 20/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/ill-typed/bad-variants-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/ill-typed/bad-variants-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/ill-typed/bad-variants-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/ill-typed/bad-variants-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1297,7 +1297,7 @@ ERROR: This is not function. On line: 7 at position: 14
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/ill-typed/bad-variants-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/ill-typed/bad-variants-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/ill-typed/bad-variants-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1305,7 +1305,7 @@ Test Passed.
 21/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/pairs/ill-typed/bad-pairs-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/pairs/ill-typed/bad-pairs-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/pairs/ill-typed/bad-pairs-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/pairs/ill-typed/bad-pairs-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1393,7 +1393,7 @@ ERROR: mismatch argument and not subtyping, on line: 9
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/pairs/ill-typed/bad-pairs-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/pairs/ill-typed/bad-pairs-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/pairs/ill-typed/bad-pairs-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1401,7 +1401,7 @@ Test Passed.
 22/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/records/ill-typed/bad-records-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/records/ill-typed/bad-records-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/records/ill-typed/bad-records-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/records/ill-typed/bad-records-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1465,7 +1465,7 @@ Line: 5
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/records/ill-typed/bad-records-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/records/ill-typed/bad-records-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/records/ill-typed/bad-records-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1473,7 +1473,7 @@ Test Passed.
 23/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1511,7 +1511,7 @@ On line 10 at position: 16
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1519,7 +1519,7 @@ Test Passed.
 24/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-2.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-2.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1585,7 +1585,7 @@ ERROR: The type should be reference, on line: 10
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-2.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-2.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1593,7 +1593,7 @@ Test Passed.
 25/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-3.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-3.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1649,10 +1649,10 @@ visitVar
 Visiting StellaIdent: x
 ERROR: you can't change type, on line: 14
 <end of output>
-Test time =   0.01 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-3.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-3.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/ill-typed/bad-refs-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1660,7 +1660,7 @@ Test Passed.
 26/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1723,7 +1723,7 @@ ERROR: mismatch argument and not subtyping, on line: 12
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1731,7 +1731,7 @@ Test Passed.
 27/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-2.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-2.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1826,7 +1826,7 @@ ERROR: mismatch argument and not subtyping, on line: 16
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-2.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-2.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1834,7 +1834,7 @@ Test Passed.
 28/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-3.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-3.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -1973,7 +1973,7 @@ ERROR: mismatch argument and not subtyping, on line: 20
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-3.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-3.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1981,7 +1981,7 @@ Test Passed.
 29/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2114,10 +2114,10 @@ Fucntion go out: 3 2 2 7
 Function name: main
 Visiting StellaIdent: main
 <end of output>
-Test time =   0.00 sec
+Test time =   0.05 sec
 ----------------------------------------------------------
 Test Failed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-4.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2125,7 +2125,7 @@ Test Failed.
 30/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-5.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-5.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-5.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-5.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2277,7 +2277,7 @@ ERROR: mismatch argument and not subtyping, on line: 22
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-5.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-5.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/ill-typed/bad-subtyping-5.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2285,7 +2285,7 @@ Test Passed.
 31/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/ill-typed/bad-sum-types-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/ill-typed/bad-sum-types-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/ill-typed/bad-sum-types-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/ill-typed/bad-sum-types-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2360,7 +2360,7 @@ ERROR: if condition type should be bool. On line:8 char:23
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/ill-typed/bad-sum-types-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/ill-typed/bad-sum-types-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/ill-typed/bad-sum-types-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2368,7 +2368,7 @@ Test Passed.
 32/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/ill-typed/bad-tuples-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/ill-typed/bad-tuples-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/ill-typed/bad-tuples-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/ill-typed/bad-tuples-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2465,10 +2465,10 @@ ConstInt
 visitInt: 0
 ERROR: mismatch argument and not subtyping, on line: 9
 <end of output>
-Test time =   0.01 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/ill-typed/bad-tuples-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/ill-typed/bad-tuples-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/ill-typed/bad-tuples-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2476,7 +2476,7 @@ Test Passed.
 33/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/ill-typed/bad-variants-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/ill-typed/bad-variants-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/ill-typed/bad-variants-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/ill-typed/bad-variants-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2527,7 +2527,7 @@ ERROR: It's not sum type. On line6 at position: 9
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/ill-typed/bad-variants-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/ill-typed/bad-variants-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/ill-typed/bad-variants-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2535,7 +2535,7 @@ Test Passed.
 34/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/factorial.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/factorial.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/factorial.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/factorial.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2741,10 +2741,10 @@ Fucntion go out: 3 2 2 9
 Function name: main
 Visiting StellaIdent: main
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/factorial.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/factorial.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/factorial.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2752,7 +2752,7 @@ Test Passed.
 35/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/higher-order-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/higher-order-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/higher-order-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/higher-order-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2894,7 +2894,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/higher-order-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/higher-order-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/higher-order-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2902,7 +2902,7 @@ Test Passed.
 36/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/increment_twice.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/increment_twice.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/increment_twice.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/increment_twice.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -2957,7 +2957,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/increment_twice.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/increment_twice.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/increment_twice.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2965,7 +2965,7 @@ Test Passed.
 37/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/logical-operators.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/logical-operators.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/logical-operators.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/logical-operators.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -3232,7 +3232,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/logical-operators.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/logical-operators.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/logical-operators.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3240,7 +3240,7 @@ Test Passed.
 38/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/squares.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/squares.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/squares.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/squares.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -3381,10 +3381,10 @@ Fucntion go out: 3 2 2 5
 Function name: main
 Visiting StellaIdent: main
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/squares.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/squares.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/core/well-typed/squares.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3392,7 +3392,7 @@ Test Passed.
 39/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -3449,7 +3449,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3457,7 +3457,7 @@ Test Passed.
 40/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-2.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-2.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -3540,7 +3540,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-2.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-2.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3548,7 +3548,7 @@ Test Passed.
 41/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-3.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-3.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -3582,7 +3582,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-3.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-3.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/exceptions/well-typed/panic-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3590,7 +3590,7 @@ Test Passed.
 42/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/well-typed/lists-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/well-typed/lists-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/well-typed/lists-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/well-typed/lists-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -3629,7 +3629,7 @@ ERROR: This is not function. On line: 7 at position: 14
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Failed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/well-typed/lists-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/well-typed/lists-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/lists/well-typed/lists-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3637,7 +3637,7 @@ Test Failed.
 43/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/pairs/well-typed/pairs-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/pairs/well-typed/pairs-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/pairs/well-typed/pairs-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/pairs/well-typed/pairs-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -3728,7 +3728,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/pairs/well-typed/pairs-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/pairs/well-typed/pairs-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/pairs/well-typed/pairs-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3736,7 +3736,7 @@ Test Passed.
 44/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/records/well-typed/records-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/records/well-typed/records-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/records/well-typed/records-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/records/well-typed/records-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -3839,7 +3839,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/records/well-typed/records-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/records/well-typed/records-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/records/well-typed/records-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3847,7 +3847,7 @@ Test Passed.
 45/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -3957,7 +3957,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3965,7 +3965,7 @@ Test Passed.
 46/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-2.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-2.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4032,7 +4032,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-2.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-2.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4040,7 +4040,7 @@ Test Passed.
 47/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-3.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-3.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4106,7 +4106,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-3.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-3.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/references/well-typed/refs-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4114,7 +4114,7 @@ Test Passed.
 48/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4184,7 +4184,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4192,7 +4192,7 @@ Test Passed.
 49/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4259,7 +4259,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4267,7 +4267,7 @@ Test Passed.
 50/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-3.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-3.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-3.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-3.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4336,7 +4336,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-3.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-3.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-3.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4344,7 +4344,7 @@ Test Passed.
 51/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4413,7 +4413,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-4.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4421,7 +4421,7 @@ Test Passed.
 52/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4519,7 +4519,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-5.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4527,7 +4527,7 @@ Test Passed.
 53/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4666,10 +4666,10 @@ Fucntion go out: 3 2 2 7
 Function name: main
 Visiting StellaIdent: main
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-6.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4677,7 +4677,7 @@ Test Passed.
 54/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4813,7 +4813,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-7.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4821,7 +4821,7 @@ Test Passed.
 55/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -4966,7 +4966,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/subtyping/well-typed/subtyping-8.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -4974,7 +4974,7 @@ Test Passed.
 56/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/well-typed/sum-types-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/well-typed/sum-types-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/well-typed/sum-types-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/well-typed/sum-types-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -5120,7 +5120,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/well-typed/sum-types-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/well-typed/sum-types-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/well-typed/sum-types-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -5128,7 +5128,7 @@ Test Passed.
 57/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/well-typed/sum-types-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/well-typed/sum-types-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/well-typed/sum-types-2.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/well-typed/sum-types-2.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -5274,7 +5274,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/well-typed/sum-types-2.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/well-typed/sum-types-2.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/sum-types/well-typed/sum-types-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -5282,7 +5282,7 @@ Test Passed.
 58/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/well-typed/tuples-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/well-typed/tuples-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/well-typed/tuples-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/well-typed/tuples-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -5382,7 +5382,7 @@ Visiting StellaIdent: main
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/well-typed/tuples-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/well-typed/tuples-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/tuples/well-typed/tuples-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -5390,7 +5390,7 @@ Test Passed.
 59/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-1.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-1.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-1.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-1.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -5441,7 +5441,7 @@ ERROR: It's not sum type. On line6 at position: 9
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Failed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-1.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-1.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-1.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -5449,7 +5449,7 @@ Test Failed.
 60/60 Test: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-2.stella
 Command: "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug/stella-interpreter" "typecheck" "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-2.stella"
 Directory: /home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/cmake-build-debug
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-2.stella" start time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-2.stella" start time: Apr 26 22:13 MSK
 Output:
 ----------------------------------------------------------
 parsing succeeded!
@@ -5498,8 +5498,8 @@ ERROR: It's not sum type. On line5 at position: 9
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Failed.
-"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-2.stella" end time: Apr 22 18:08 MSK
+"/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-2.stella" end time: Apr 26 22:13 MSK
 "/home/bekzat/Documents/Innopolis/3_years/advance_compiler/week-3-stella-with-references-subtyping-errors-rkBekzat/tests/variants/well-typed/variants-2.stella" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Apr 22 18:08 MSK
+End testing: Apr 26 22:13 MSK
